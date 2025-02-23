@@ -1,5 +1,5 @@
-# 🌱 **Welcome to My GitHub Profile!**  
-![AIoT Banner](https://raw.githubusercontent.com/username/repo-name/main/images/aiot-banner.png)  
+# 👋 **Welcome to My GitHub Profile!**  
+![IoT AI ML](https://github.com/Andreasss1/Andreasss1/blob/main/IoT-AI-ML.jpg)
 
 ### Bridging the Future with Artificial Intelligence of Things (AIoT)  
 
